@@ -2,7 +2,7 @@
 ## 👋 Hi there!
 💼 I'm a Python Engineer Intern at Telnyx  
 🏫 I’m currently studying at Florida Polytechnic University for Computer Science  
-🌱 I’m currently focusing on Java and Python
+🌱 I’m currently focusing on Java and Python  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love gaming, music, and cooking.  
 
