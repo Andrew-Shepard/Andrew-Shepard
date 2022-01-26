@@ -1,6 +1,6 @@
 # Andrew Shepard
 ## 👋 Hi there!
-💼 I'm a Python Engineer Intern at Telnyx
+💼 I'm a Python Engineer Intern at Telnyx  
 🏫 I’m currently studying at Florida Polytechnic University for Computer Science  
 🌱 I’m currently focusing on C# and C++  
 😄 Pronouns: He/Him  
